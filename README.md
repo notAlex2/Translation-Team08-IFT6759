@@ -1,6 +1,6 @@
 ## IFT6759: Low Resource Machine Translation
 
-This project was created as part of the UdeM course IFT6759 (https://admission.umontreal.ca/cours-et-horaires/cours/IFT-6759/). The objective of this project is to predict French translations of English sentences in a low-resource setting. Refer to the report and presentation included in this repository for more details.
+This project was created as part of the UdeM course IFT6759 (https://admission.umontreal.ca/cours-et-horaires/cours/IFT-6759/). The objective of this project is to predict French translations of English sentences in a low-resource setting. Refer to the [report](final_report.pdf) and [presentation](presentation.pdf) included in this repository for more details.
 
 ### Team 08
 * Alexander Peplowski
